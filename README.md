@@ -8,7 +8,7 @@ Requirement
 
 Project ability
   - Buy or Sell when the condition is trigger.
-  - Auto create limit order for stoploss at your desire stoploss percent when buy and sell condition is trigger.
+  - Auto create limit order for stoploss at your desire stoploss percent when buy condition is trigger.
   - Create graph from mpf.plot which contain EMA indicator , buy or sell price , stop loss price , uptrend or downtrend signal sign (default = candle stick)
   - Graph picture will return to folder graph_pic by default.
   - Find the coin that able to dust into BNB and sell it.
