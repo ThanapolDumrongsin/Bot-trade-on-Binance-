@@ -12,7 +12,7 @@ Project ability
   - Create graph from mpf.plot which contain EMA indicator , buy or sell price , stop loss price , uptrend or downtrend signal sign (default = candle stick)
   - Graph picture will return to folder graph_pic by default.
   - Find the coin that able to dust into BNB and sell it.
-  - Auto collect data and append to excel file (default = data.xlsx).
+  - Auto collect data and append to excel file (default = data.xlsx , [Sheet2]).
   
  Warnning 
   - I reccommend to use this project on timeframe '1DAY' only.
